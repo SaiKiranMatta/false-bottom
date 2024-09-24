@@ -8,9 +8,17 @@
         "test": "jest",
         "start": "node dist/index.js"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SaiKiranMatta/false-bottom.git"
+    },
+    "keywords": [
+        "encryption",
+        "typescript",
+        "crypto"
+    ],
+    "author": "Sai Kiran Matta",
+    "license": "MIT",
     "description": "",
     "devDependencies": {
         "@types/jest": "^29.5.13",
