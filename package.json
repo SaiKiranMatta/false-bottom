@@ -19,7 +19,7 @@
     ],
     "author": "Sai Kiran Matta",
     "license": "MIT",
-    "description": "",
+    "description": "False Bottom, a deniable encryption algorithm.",
     "devDependencies": {
         "@types/jest": "^29.5.13",
         "@types/node": "^22.6.1",
